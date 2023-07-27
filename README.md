@@ -1,0 +1,1 @@
+This repository contains a collection of Java files focusing on core Java concepts and programming examples. The goal of this repository is to provide a comprehensive set of Java programs and demonstrations that cover various fundamental topics in Java development.
